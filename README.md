@@ -1,3 +1,8 @@
-# Awesome Links - part-1
+# Awesome
 
-This branch has the same starting point as [this article](https://prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
+clone and Change from
+(https://prisma.io/blog/fullstack-nextjs-graphql-prisma-oklidw1rhw)
+
+This porject have some bug .
+
+1. Can not upload image to S3
